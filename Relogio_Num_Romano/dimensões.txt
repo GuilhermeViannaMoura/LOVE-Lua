@@ -1,0 +1,6 @@
+largura 236
+altura 372
+
+hora 40   80 / 71   176 / 17
+minuto 109   15 / 43   241
+segundo 160 7 / 30   357
